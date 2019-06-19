@@ -8,7 +8,8 @@ Chance Constrained Optimization:
 
 max_x E[f(x,q)]\
 s.t.\
-Prob( q: p_j(x,q)>0, j=1,...l ) >= 1- Delta, 
+Prob( q: p_j(x,q)>0, j=1,...l ) ≥ 1- Delta, 
+
 
 where "x" is a decision vector,  "q" is a random vector with given probability distribution, and f and p_j are polynomials. 
 
