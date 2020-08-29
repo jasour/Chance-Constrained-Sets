@@ -1,4 +1,4 @@
-# Chance-Constraint Sets
+# Chance-Constrained Sets
 Set of all design parameters (control inputs, plans,...) that satisfies probabilistic nonlinear safety constraints.
 
 - Moment-sum-of-squates based Semidefinite Programming
